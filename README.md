@@ -81,4 +81,4 @@ Contributions are welcome! Please submit a pull request or open an issue for bug
 MIT License. See `LICENSE` for details.
 
 ## Contact
-For questions, reach out to [your.email@example.com](mailto:akshatsharmap42@gmail.com).
+For questions, reach out to [akshatsharmap42@gmail.com](mailto:akshatsharmap42@gmail.com).
